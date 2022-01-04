@@ -1,6 +1,6 @@
 # Used Car Price Prediction
 
-<img src="Images/DemoPage1.jpg" width="600" height="350">
+<img src="Images/DemoPage1.jpg" width="610" height="350">
 
 ## Introduction
 Due to the increased price of new cars and the incapability of customers to buy new cars due to the lack of funds, used cars sales are on a global increase.
